@@ -17,3 +17,6 @@ c:\users\admin\documents\visual studio 2013\Projects\URLFullDownload\URLFullDown
 c:\users\admin\documents\visual studio 2013\Projects\URLFullDownload\URLFullDownload\obj\Debug\URLFullDownload.csproj.GenerateResource.Cache
 c:\users\admin\documents\visual studio 2013\Projects\URLFullDownload\URLFullDownload\obj\Debug\URLFullDownload.exe
 c:\users\admin\documents\visual studio 2013\Projects\URLFullDownload\URLFullDownload\obj\Debug\URLFullDownload.pdb
+E:\WorkSource\Topic\SVNService\NETPreject\URLFullDownload\URLFullDownload\bin\Debug\URLFullDownload.exe.config
+E:\WorkSource\Topic\SVNService\NETPreject\URLFullDownload\URLFullDownload\obj\Debug\URLFullDownload.exe
+E:\WorkSource\Topic\SVNService\NETPreject\URLFullDownload\URLFullDownload\obj\Debug\URLFullDownload.pdb
