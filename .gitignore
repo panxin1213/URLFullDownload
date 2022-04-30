@@ -1,3 +1,5 @@
 /URLFullDownload.v12.suo
-/URLFullDownload/bin/
-/URLFullDownload/obj/
+/URLFullDownload/bin/*
+/URLFullDownload/obj/*
+/URLFullDownload/bin
+/URLFullDownload/obj
